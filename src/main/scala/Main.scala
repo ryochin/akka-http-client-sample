@@ -21,7 +21,7 @@ object Main {
   private val uriList = Seq(
     "https://news.yahoo.co.jp/pickup/rss.xml",
     "http://rss.asahi.com/rss/asahi/national.rdf",
-    "http://rss.rssad.jp/rss/sankeibiz/points"
+    "https://www3.nhk.or.jp/rss/news/cat0.xml"
   )
 
   def main(args: Array[String]): Unit = {
